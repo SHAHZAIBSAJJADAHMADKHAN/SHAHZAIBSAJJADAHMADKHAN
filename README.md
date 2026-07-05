@@ -3,13 +3,13 @@
 
 Email Me 👉 ✉️ **shahzaibsajjadahmadkhan@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Enter your tech here
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
+- 🔭 **I’m currently working on:**
+- 🌱 **I’m currently learning:** Ai Automation Engineer course
+- 👯 **I’m looking to collaborate on:** School Managment System etc.
+- 🤔 **I’m looking for help with:** Go to my repostrys and see the projects
 - 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
-- 😄 **Pronouns:** Imran Sir
+- 📫 **How to reach me:** shahzaibsajjadahmadkhan@gmail.com
+- 😄 **Pronouns:** Sir Shahzaib Shah
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 
